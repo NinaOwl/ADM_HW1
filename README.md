@@ -1,2 +1,2 @@
 # ADM_HW1
-This repo contains a 1st homework of ADM. In submissions.pdf there is a list of submited challenges Probelm1 and Problem2(ex. from data types and introduction are submited in pypy, all others in Python3). Problem2 challenges are marked down in Submission Pdf (mostly page12). Scripts for each challenge from Problem1 are in Section_Name.py. All scripts from Problem2 are in Problem2.py
+This repo contains a 1st homework of ADM. In submissions.pdf there is a list of submited challenges Probelm1 and Problem2(ex. from data types and introduction are submited in pypy, all others in Python3). Problem2 challenges are marked down in Submission Pdf (mostly page12). Scripts for each challenge from Problem1 are in Problem1.py. All scripts from Problem2 are in Problem2.py
